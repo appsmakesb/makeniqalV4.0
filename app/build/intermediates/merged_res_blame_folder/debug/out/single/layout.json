@@ -1,0 +1,498 @@
+[
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\listview_item_r.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\listview_item_r.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\twostep.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\twostep.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\item_product.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\item_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\bank.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\bank.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\transfer.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\transfer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\tricket_main_list_read.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\tricket_main_list_read.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\activity_image_detail.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\activity_image_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\signin.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\signin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\all_slider.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\all_slider.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\ft_main.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\ft_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\item_cart.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\item_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\welcome.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\in_number.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\in_number.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\include_empty_cart.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\include_empty_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\pinc.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\pinc.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\activity_checkout.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\activity_checkout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\dlock.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\dlock.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\confirmbank.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\confirmbank.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\offer.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\offer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\service_main.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\service_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\webl.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\webl.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\input_dialog.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\input_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\slider_fourth.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\slider_fourth.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\tricket_main_read.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\tricket_main_read.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\third_recyclarview.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\third_recyclarview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\display_posts.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\display_posts.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\new_uidi_three.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\new_uidi_three.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\new_tricket.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\new_tricket.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\item_category.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\item_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\activity_register.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\item_history.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\item_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\my2.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\my2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\confirm.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\confirm.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\gird_internet.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\gird_internet.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\noticeboard.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\noticeboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\fragment_home_ui.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\fragment_home_ui.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\mobilebank.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\mobilebank.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\activity_product.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\activity_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\item_post.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\item_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\listview_item.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\listview_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\dialogs.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\dialogs.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\my_message.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\my_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\pin_layout.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\pin_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\dashboard.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\activity_cart.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\activity_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\update_post.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\update_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\user_category.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\user_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\balance_d.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\balance_d.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\item_bottom_sheet.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\item_bottom_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\include_row_separator.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\include_row_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\tricket_main_list.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\tricket_main_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\content_custom.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\content_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\activity_web.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\activity_web.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\develop.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\develop.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\keyboard.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\keyboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\fragment_contact_list.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\fragment_contact_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\slider_layout.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\slider_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\item_help.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\item_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\noticelist.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\noticelist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\activity_history.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\activity_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\cropm.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\cropm.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\operator.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\operator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\confirm2.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\confirm2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\list_internet.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\list_internet.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\fragment_recent.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\fragment_recent.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\home.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\listview_main_r.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\listview_main_r.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\dialog.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\activity_maintwo.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\activity_maintwo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\tricket_main.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\tricket_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\toolbar.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\activity_product_detail.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\activity_product_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\home_menu.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\home_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\activity_mainc.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\activity_mainc.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\permission_close.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\permission_close.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\add.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\include_empty_history.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\include_empty_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\newrecharge.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\newrecharge.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\category.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\category.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\new_uidi_one.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\new_uidi_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\dialog_add_category.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\dialog_add_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\activity_notification_detail.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\activity_notification_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\activity_help.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\activity_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\pin.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\pin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\custom_dialog_view.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\custom_dialog_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\cemera_d.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\cemera_d.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\post_detail.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\post_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\payi.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\payi.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\get_posts.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\get_posts.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\internet_main.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\internet_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\new_uidi_two.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\new_uidi_two.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\editr.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\editr.xml"
+    },
+    {
+        "merged": "com.v4android.usserapp-mergeDebugResources-52:/layout/pattern_lock.xml",
+        "source": "com.v4android.usserapp-main-55:/layout/pattern_lock.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\device.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\device.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\list_service.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\list_service.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\historylist.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\historylist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\add_balance_type.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\add_balance_type.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\item_contact.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\item_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\banktransfer.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\banktransfer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\order.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\order.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\custom_progress.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\custom_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\fragment_profile.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\listview_main.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\listview_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\frag1_layout.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\frag1_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\myprofile.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\myprofile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\confirmbill.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\confirmbill.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\url.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\url.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\pattern_lock.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\pattern_lock.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\activity_upload_post.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\activity_upload_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\payment.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\payment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\spinner_item.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\spinner_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\addpic.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\addpic.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\post_item_category.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\post_item_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\include_cart_total.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\include_cart_total.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\password.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\smsac.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\smsac.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\tact.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\tact.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\frag2_layout.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\frag2_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\sample_recyclarview.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\sample_recyclarview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\display_activity.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\display_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-mergeDebugResources-52:\\layout\\doc_layout.xml",
+        "source": "C:\\Users\\Mohammed Foysal\\.gradle\\daemon\\8.0\\com.v4android.usserapp-main-55:\\layout\\doc_layout.xml"
+    }
+]

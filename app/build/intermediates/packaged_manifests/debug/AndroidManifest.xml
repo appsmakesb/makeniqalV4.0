@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.v4android.usserapp"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="26"
+        android:targetSdkVersion="34" />
+
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="false" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.USE_BIOMETRIC" />
+    <uses-permission android:name="android.permission.USE_FINGERPRINT" />
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+    <uses-permission android:name="com.google.android.gms.permission.AD_ID" /> <!-- Create a unique permission for your app and use it so only your app can receive your OneSignal messages. -->
+    <permission
+        android:name="com.v4android.usserapp.permission.C2D_MESSAGE"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="com.v4android.usserapp.permission.C2D_MESSAGE" />
+    <!--
+ Required so the device vibrates on receiving a push notification.
+         Vibration settings of the device still apply.
+    -->
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <!--
+ Use to restore notifications the user hasn't interacted with.
+         They could be missed notifications if the user reboots their device if this isn't in place.
+    -->
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" /> <!-- START: ShortcutBadger -->
+    <!-- Samsung -->
+    <uses-permission android:name="com.sec.android.provider.badge.permission.READ" />
+    <uses-permission android:name="com.sec.android.provider.badge.permission.WRITE" /> <!-- HTC -->
+    <uses-permission android:name="com.htc.launcher.permission.READ_SETTINGS" />
+    <uses-permission android:name="com.htc.launcher.permission.UPDATE_SHORTCUT" /> <!-- Sony -->
+    <uses-permission android:name="com.sonyericsson.home.permission.BROADCAST_BADGE" />
+    <uses-permission android:name="com.sonymobile.home.permission.PROVIDER_INSERT_BADGE" /> <!-- Apex -->
+    <uses-permission android:name="com.anddoes.launcher.permission.UPDATE_COUNT" /> <!-- Solid -->
+    <uses-permission android:name="com.majeur.launcher.permission.UPDATE_BADGE" /> <!-- Huawei -->
+    <uses-permission android:name="com.huawei.android.launcher.permission.CHANGE_BADGE" />
+    <uses-permission android:name="com.huawei.android.launcher.permission.READ_SETTINGS" />
+    <uses-permission android:name="com.huawei.android.launcher.permission.WRITE_SETTINGS" /> <!-- ZUK -->
+    <uses-permission android:name="android.permission.READ_APP_BADGE" /> <!-- OPPO -->
+    <uses-permission android:name="com.oppo.launcher.permission.READ_SETTINGS" />
+    <uses-permission android:name="com.oppo.launcher.permission.WRITE_SETTINGS" /> <!-- EvMe -->
+    <uses-permission android:name="me.everything.badger.permission.BADGE_COUNT_READ" />
+    <uses-permission android:name="me.everything.badger.permission.BADGE_COUNT_WRITE" />
+
+    <permission
+        android:name="com.v4android.usserapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="com.v4android.usserapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+
+    <application
+        android:name="com.v4android.usserapp.activities.MyApplication"
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:debuggable="true"
+        android:extractNativeLibs="false"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:requestLegacyExternalStorage="true"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ecomflexi"
+        android:usesCleartextTraffic="true" >
+        <activity
+            android:name="com.v4android.usserapp.sliderAdapter.PayAmount"
+            android:exported="false" />
+        <activity
+            android:name="com.v4android.usserapp.sliderAdapter.PayAct"
+            android:exported="false" />
+
+        <meta-data
+            android:name="com.google.firebase.messaging.default_notification_icon"
+            android:exported="true"
+            android:resource="@mipmap/ic_launcher" />
+        <meta-data
+            android:name="com.google.firebase.messaging.default_notification_color"
+            android:exported="true"
+            android:resource="@color/white" />
+
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="com.v4android.usserapp.fileprovider"
+            android:exported="false"
+            android:grantUriPermissions="true" >
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:exported="true"
+                android:resource="@xml/provider_paths" />
+        </provider>
+
+        <meta-data
+            android:name="com.google.firebase.ml.vision.DEPENDENCIES"
+            android:exported="true"
+            android:value="ocr" />
+
+        <uses-library
+            android:name="org.apache.http.legacy"
+            android:required="false" />
+
+        <activity
+            android:name="com.v4android.usserapp.Start"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.v4android.usserapp.view.MainActivityc"
+            android:exported="true"
+            android:label="New Request" />
+        <activity
+            android:name="com.v4android.usserapp.Myprofile"
+            android:exported="true"
+            android:label="My profile" />
+        <activity
+            android:name="com.v4android.usserapp.Twostep"
+            android:exported="true"
+            android:label="Two step" />
+        <activity
+            android:name="com.v4android.usserapp.Addpic"
+            android:exported="true"
+            android:label="Scan Id Card" />
+        <activity
+            android:name="com.v4android.usserapp.Cropm"
+            android:exported="true"
+            android:label="Crop Image" />
+        <activity
+            android:name="com.v4android.usserapp.Billpay"
+            android:exported="true"
+            android:label="Bill pay" />
+        <activity
+            android:name="com.v4android.usserapp.New_support"
+            android:exported="true"
+            android:label="New Support Tricket" />
+        <activity
+            android:name="com.v4android.usserapp.Tricket_main_read"
+            android:exported="true"
+            android:label="Support Tricket" />
+        <activity
+            android:name="com.v4android.usserapp.Tricket_main"
+            android:exported="true"
+            android:label="Support Tricket" />
+        <activity
+            android:name="com.v4android.usserapp.RegisterActivity"
+            android:exported="true"
+            android:label="Create Account" />
+        <activity
+            android:name="com.v4android.usserapp.Welcome"
+            android:exported="true"
+            android:label="Service list" />
+        <activity
+            android:name="com.v4android.usserapp.Banktransfer"
+            android:exported="true"
+            android:label="Bank Transfer" />
+        <activity
+            android:name="com.v4android.usserapp.PinActivity"
+            android:label="Pin Confirm" />
+        <activity
+            android:name="com.v4android.usserapp.Mainlist"
+            android:exported="true"
+            android:label="History" />
+        <activity
+            android:name="com.v4android.usserapp.News"
+            android:exported="true"
+            android:label="Notice Board" />
+        <activity
+            android:name="com.v4android.usserapp.web"
+            android:exported="true"
+            android:label="Welcome" />
+        <activity
+            android:name="com.v4android.usserapp.MainActivity"
+            android:exported="true"
+            android:label="Signin" />
+        <activity
+            android:name="com.v4android.usserapp.pinver"
+            android:exported="true"
+            android:label="Pin" />
+        <activity
+            android:name="com.v4android.usserapp.DisplayActivity"
+            android:exported="true"
+            android:label="New Request" />
+        <activity
+            android:name="com.v4android.usserapp.DisplayActivitya"
+            android:exported="true"
+            android:label="New Request" />
+        <activity
+            android:name="com.v4android.usserapp.Operator"
+            android:exported="true"
+            android:label="Select Operator" />
+        <activity
+            android:name="com.v4android.usserapp.Addres"
+            android:exported="true"
+            android:label="Add reseller" />
+        <activity
+            android:name="com.v4android.usserapp.Myreseller"
+            android:exported="true"
+            android:label="Add reseller" />
+        <activity
+            android:name="com.v4android.usserapp.Signin"
+            android:exported="true"
+            android:label="Signin" />
+        <activity
+            android:name="com.v4android.usserapp.Url"
+            android:exported="true"
+            android:label="Add url" />
+        <activity
+            android:name="com.v4android.usserapp.Develop"
+            android:exported="true"
+            android:label="About us" />
+        <activity
+            android:name="com.v4android.usserapp.service_a"
+            android:exported="true"
+            android:label="Service us" />
+        <activity
+            android:name="com.v4android.usserapp.Editres"
+            android:exported="true"
+            android:label="Edit" />
+        <activity
+            android:name="com.v4android.usserapp.Payment"
+            android:exported="true"
+            android:label="Payment" />
+        <activity
+            android:name="com.v4android.usserapp.Transfer"
+            android:exported="true"
+            android:label="Transfer" />
+        <activity
+            android:name="com.v4android.usserapp.Smssend"
+            android:exported="true"
+            android:label="Send Sms" />
+        <activity
+            android:name="com.v4android.usserapp.history_op"
+            android:exported="true"
+            android:label="History" />
+        <activity
+            android:name="com.v4android.usserapp.Password"
+            android:exported="true"
+            android:label="Password Change" />
+        <activity
+            android:name="com.v4android.usserapp.Pinc"
+            android:exported="true"
+            android:label="Pin change" />
+        <activity
+            android:name="com.v4android.usserapp.mydevice"
+            android:exported="true"
+            android:label="My Device" />
+        <activity
+            android:name="com.v4android.usserapp.makepay"
+            android:exported="true"
+            android:label="Make payment" />
+        <activity
+            android:name="com.v4android.usserapp.Internet"
+            android:exported="true"
+            android:label="Internet Pakage" />
+        <activity
+            android:name="com.v4android.usserapp.InternetActivity"
+            android:exported="true"
+            android:label="Internet Pakage" />
+        <activity
+            android:name="com.v4android.usserapp.Payment_type"
+            android:exported="true"
+            android:label="Payment type" />
+        <activity
+            android:name="com.v4android.usserapp.Dlock"
+            android:exported="true"
+            android:label="Device Lock" />
+
+        <receiver
+            android:name="com.v4android.usserapp.FirebaseBroadcastReceiver"
+            android:exported="true"
+            android:permission="com.google.android.c2dm.permission.SEND" >
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+
+                <category android:name="com.ecomflexi.softwarelabbd" />
+            </intent-filter>
+        </receiver>
+
+        <provider
+            android:name="com.squareup.picasso.PicassoProvider"
+            android:authorities="com.v4android.usserapp.com.squareup.picasso"
+            android:exported="false" />
+
+        <service
+            android:name="com.google.firebase.components.ComponentDiscoveryService"
+            android:directBootAware="true"
+            android:exported="false" >
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.ml.vision.VisionRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.ml.common.CommonComponentRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+        </service>
+
+        <provider
+            android:name="com.google.firebase.provider.FirebaseInitProvider"
+            android:authorities="com.v4android.usserapp.firebaseinitprovider"
+            android:directBootAware="true"
+            android:exported="false"
+            android:initOrder="100" />
+
+        <receiver
+            android:name="com.onesignal.GcmBroadcastReceiver"
+            android:exported="true"
+            android:permission="com.google.android.c2dm.permission.SEND" > <!-- High priority so OneSignal payloads can be filtered from other GCM receivers if filterOtherGCMReceivers is enabled. -->
+            <intent-filter android:priority="999" >
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+
+                <category android:name="com.v4android.usserapp" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="com.onesignal.BootUpReceiver"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="com.onesignal.UpgradeReceiver"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
+            </intent-filter>
+        </receiver>
+
+        <activity android:name="com.v4android.usserapp.sliderAdapter.WebActivity" />
+        <activity android:name="com.v4android.usserapp.sliderAdapter.AllSliderActivity" />
+        <activity
+            android:name="com.v4android.usserapp.activities.ActivitySplash"
+            android:exported="true"
+            android:label="@string/ecommerce_name" >
+
+            <!--
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            -->
+        </activity>
+        <activity
+            android:name="com.v4android.usserapp.activities.MainActivity"
+            android:exported="true"
+            android:label="@string/ecommerce_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.v4android.usserapp.activities.ActivityCart"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.v4android.usserapp.activities.ActivityProduct"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.v4android.usserapp.activities.ActivityProductDetail"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.v4android.usserapp.activities.ActivityCheckout"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.v4android.usserapp.activities.ActivityHistory"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.v4android.usserapp.activities.ActivityHelp"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.v4android.usserapp.activities.ActivityImageDetail"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.v4android.usserapp.activities.ActivityNotificationDetail"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.v4android.usserapp.activities.ActivitySettings"
+            android:screenOrientation="portrait"
+            android:theme="@style/Pref" /> <!-- fcm -->
+        <service
+            android:name="com.v4android.usserapp.notification.MyFirebaseMessagingService"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+        <service
+            android:name="com.v4android.usserapp.notification.MyFirebaseInstanceIdService"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+            </intent-filter>
+        </service>
+        <service
+            android:name="com.v4android.usserapp.notification.NotificationExtenderExample"
+            android:exported="true"
+            android:permission="android.permission.BIND_JOB_SERVICE" >
+            <intent-filter>
+                <action android:name="com.onesignal.NotificationExtender" />
+            </intent-filter>
+        </service>
+
+        <activity
+            android:name="com.v4android.usserapp.notification.NotificationExtenderExample"
+            android:exported="true" />
+        <activity android:name="com.v4android.usserapp.post.NotesDBMain" />
+        <activity
+            android:name="com.v4android.usserapp.post.DisplayPostsActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.v4android.usserapp.post.UserCategory"
+            android:exported="false" />
+        <activity
+            android:name="com.v4android.usserapp.post.CategoryActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.v4android.usserapp.post.UpdatePostActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.v4android.usserapp.post.DetailActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.v4android.usserapp.post.GetPosts"
+            android:exported="false" />
+        <activity
+            android:name="com.v4android.usserapp.post.UploadPost"
+            android:exported="false" />
+
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="com.v4android.usserapp.provider"
+            android:exported="false"
+            android:grantUriPermissions="true" >
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/provider_paths" />
+        </provider>
+
+        <activity
+            android:name="com.karumi.dexter.DexterActivity"
+            android:theme="@style/Dexter.Internal.Theme.Transparent" />
+
+        <meta-data
+            android:name="onesignal_app_id"
+            android:value="5ba48ad2-59f4-4503-b62e-8ea290c610f7" /> <!-- Deprecated - Pulled from OneSignal dashboard. -->
+        <meta-data
+            android:name="onesignal_google_project_number"
+            android:value="str:REMOTE" />
+
+        <receiver android:name="com.onesignal.NotificationOpenedReceiver" />
+
+        <service android:name="com.onesignal.GcmIntentService" />
+        <service
+            android:name="com.onesignal.GcmIntentJobService"
+            android:permission="android.permission.BIND_JOB_SERVICE" />
+        <service
+            android:name="com.onesignal.RestoreJobService"
+            android:permission="android.permission.BIND_JOB_SERVICE" />
+        <service
+            android:name="com.onesignal.RestoreKickoffJobService"
+            android:permission="android.permission.BIND_JOB_SERVICE" />
+        <service
+            android:name="com.onesignal.SyncService"
+            android:stopWithTask="true" />
+        <service
+            android:name="com.onesignal.SyncJobService"
+            android:permission="android.permission.BIND_JOB_SERVICE" />
+
+        <activity
+            android:name="com.onesignal.PermissionsActivity"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <service android:name="com.onesignal.NotificationRestoreService" />
+        <!--
+             FirebaseMessagingService performs security checks at runtime,
+             no need for explicit permissions despite exported="true"
+        -->
+        <service
+            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+            android:exported="true" >
+            <intent-filter android:priority="-500" >
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+
+        <receiver
+            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+            android:exported="true"
+            android:permission="com.google.android.c2dm.permission.SEND" >
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+            </intent-filter>
+        </receiver>
+        <!--
+             FirebaseInstanceIdService performs security checks at runtime,
+             no need for explicit permissions despite exported="true"
+        -->
+        <service
+            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
+            android:exported="true" >
+            <intent-filter android:priority="-500" >
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+            </intent-filter>
+        </service>
+
+        <provider
+            android:name="androidx.startup.InitializationProvider"
+            android:authorities="com.v4android.usserapp.androidx-startup"
+            android:exported="false" >
+            <meta-data
+                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+                android:value="androidx.startup" />
+            <meta-data
+                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+                android:value="androidx.startup" />
+            <meta-data
+                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+                android:value="androidx.startup" />
+        </provider>
+
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <receiver
+            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+            android:directBootAware="false"
+            android:enabled="true"
+            android:exported="true"
+            android:permission="android.permission.DUMP" >
+            <intent-filter>
+                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>

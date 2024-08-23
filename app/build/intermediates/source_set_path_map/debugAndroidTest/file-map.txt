@@ -1,0 +1,7 @@
+com.v4android.usserapp.test.app-jetified-annotation-experimental-1.4.0-0 C:\Users\Mohammed Foysal\.gradle\caches\transforms-3\34961915a22b796f0d8f6d408c480186\transformed\jetified-annotation-experimental-1.4.0\res
+com.v4android.usserapp.test.app-jetified-core-1.5.0-1 C:\Users\Mohammed Foysal\.gradle\caches\transforms-3\5f59c6f99e71a4b23f6ff98e5055c228\transformed\jetified-core-1.5.0\res
+com.v4android.usserapp.test.app-androidTest-2 G:\Download\Project Sabbir Vai\makeniqalv4-master\app\build\generated\res\resValues\androidTest\debug
+com.v4android.usserapp.test.app-androidTest-3 G:\Download\Project Sabbir Vai\makeniqalv4-master\app\build\generated\res\rs\androidTest\debug
+com.v4android.usserapp.test.app-mergeDebugAndroidTestResources-4 G:\Download\Project Sabbir Vai\makeniqalv4-master\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.v4android.usserapp.test.app-mergeDebugAndroidTestResources-5 G:\Download\Project Sabbir Vai\makeniqalv4-master\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.v4android.usserapp.test.app-merged_res-6 G:\Download\Project Sabbir Vai\makeniqalv4-master\app\build\intermediates\merged_res\debugAndroidTest

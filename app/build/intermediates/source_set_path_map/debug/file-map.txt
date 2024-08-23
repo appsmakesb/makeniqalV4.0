@@ -1,0 +1,56 @@
+com.v4android.usserapp-lifecycle-livedata-2.6.2-0 C:\Users\Mohammed Foysal\.gradle\caches\transforms-3\01c896dfa00b256cfa0a1527b241ecac\transformed\lifecycle-livedata-2.6.2\res
+com.v4android.usserapp-jetified-viewpager2-1.0.0-1 C:\Users\Mohammed Foysal\.gradle\caches\transforms-3\0a372ffabb15eb99ad9ceea6b6029680\transformed\jetified-viewpager2-1.0.0\res
+com.v4android.usserapp-lifecycle-runtime-2.6.2-2 C:\Users\Mohammed Foysal\.gradle\caches\transforms-3\0d39bfa21866fe69010ad2ec8fb7b99d\transformed\lifecycle-runtime-2.6.2\res
+com.v4android.usserapp-jetified-material-ripple-1.0.2-3 C:\Users\Mohammed Foysal\.gradle\caches\transforms-3\10214ee9885a9b899ed44944dc6900df\transformed\jetified-material-ripple-1.0.2\res
+com.v4android.usserapp-jetified-play-services-basement-18.1.0-4 C:\Users\Mohammed Foysal\.gradle\caches\transforms-3\16a69ff938c1797031ecc6d112c4b364\transformed\jetified-play-services-basement-18.1.0\res
+com.v4android.usserapp-cardview-1.0.0-5 C:\Users\Mohammed Foysal\.gradle\caches\transforms-3\186b9e2b71367d3fb0a968a227647d20\transformed\cardview-1.0.0\res
+com.v4android.usserapp-jetified-glide-4.15.0-6 C:\Users\Mohammed Foysal\.gradle\caches\transforms-3\1d570ee520dbd7624a4bef2b5a729653\transformed\jetified-glide-4.15.0\res
+com.v4android.usserapp-jetified-lifecycle-viewmodel-savedstate-2.6.2-7 C:\Users\Mohammed Foysal\.gradle\caches\transforms-3\23fece2b0fc88847f7a4331289944ed6\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.2\res
+com.v4android.usserapp-core-1.13.0-8 C:\Users\Mohammed Foysal\.gradle\caches\transforms-3\2ae79b34fdb93735af81f5c3fd2f5972\transformed\core-1.13.0\res
+com.v4android.usserapp-core-runtime-2.2.0-9 C:\Users\Mohammed Foysal\.gradle\caches\transforms-3\2e9b425e1f680ab817226999d489bc38\transformed\core-runtime-2.2.0\res
+com.v4android.usserapp-databinding-runtime-7.4.1-10 C:\Users\Mohammed Foysal\.gradle\caches\transforms-3\2f06b3fcd0417d560170d41e159a8ffe\transformed\databinding-runtime-7.4.1\res
+com.v4android.usserapp-jetified-annotation-experimental-1.4.0-11 C:\Users\Mohammed Foysal\.gradle\caches\transforms-3\34961915a22b796f0d8f6d408c480186\transformed\jetified-annotation-experimental-1.4.0\res
+com.v4android.usserapp-jetified-library-1.4.0-12 C:\Users\Mohammed Foysal\.gradle\caches\transforms-3\3937949024f2b772bafff716bd460cd9\transformed\jetified-library-1.4.0\res
+com.v4android.usserapp-jetified-lifecycle-process-2.6.2-13 C:\Users\Mohammed Foysal\.gradle\caches\transforms-3\3b2b12e97fe5d6a7591c9ef2ed926f3c\transformed\jetified-lifecycle-process-2.6.2\res
+com.v4android.usserapp-jetified-multilibrary-6.0-14 C:\Users\Mohammed Foysal\.gradle\caches\transforms-3\3b434ee40b0f2963d6594ccf3ebb2ba7\transformed\jetified-multilibrary-6.0\res
+com.v4android.usserapp-jetified-activity-1.8.0-15 C:\Users\Mohammed Foysal\.gradle\caches\transforms-3\44fd3d17e82ff8920333e751505c8f77\transformed\jetified-activity-1.8.0\res
+com.v4android.usserapp-drawerlayout-1.1.1-16 C:\Users\Mohammed Foysal\.gradle\caches\transforms-3\4f22bc335a30ded668552d498b7e7a3c\transformed\drawerlayout-1.1.1\res
+com.v4android.usserapp-browser-1.0.0-17 C:\Users\Mohammed Foysal\.gradle\caches\transforms-3\4f6b9b7f0ead9c17ff376b5af5185bc0\transformed\browser-1.0.0\res
+com.v4android.usserapp-jetified-core-ktx-1.13.0-18 C:\Users\Mohammed Foysal\.gradle\caches\transforms-3\5224b8dd7069105611e044550590acb6\transformed\jetified-core-ktx-1.13.0\res
+com.v4android.usserapp-jetified-savedstate-1.2.1-19 C:\Users\Mohammed Foysal\.gradle\caches\transforms-3\5be6e407a9bd8774ac07bcc7c59bf796\transformed\jetified-savedstate-1.2.1\res
+com.v4android.usserapp-constraintlayout-2.1.4-20 C:\Users\Mohammed Foysal\.gradle\caches\transforms-3\69c806e0b49df55d7a894a010cc5bc05\transformed\constraintlayout-2.1.4\res
+com.v4android.usserapp-jetified-appcompat-resources-1.6.1-21 C:\Users\Mohammed Foysal\.gradle\caches\transforms-3\6a17cbb39257eeefb3683a13394d9158\transformed\jetified-appcompat-resources-1.6.1\res
+com.v4android.usserapp-appcompat-1.6.1-22 C:\Users\Mohammed Foysal\.gradle\caches\transforms-3\736794751e96efce6afa16ec1eb1d175\transformed\appcompat-1.6.1\res
+com.v4android.usserapp-jetified-play-services-base-18.0.1-23 C:\Users\Mohammed Foysal\.gradle\caches\transforms-3\791758928065c5b90a57c65fa3e40d58\transformed\jetified-play-services-base-18.0.1\res
+com.v4android.usserapp-jetified-firebase-common-20.2.0-24 C:\Users\Mohammed Foysal\.gradle\caches\transforms-3\7ea2ff2171cde18f38ad66859761b75c\transformed\jetified-firebase-common-20.2.0\res
+com.v4android.usserapp-jetified-emoji2-views-helper-1.2.0-25 C:\Users\Mohammed Foysal\.gradle\caches\transforms-3\8ca8f511959eff3e69f5329bafe2a384\transformed\jetified-emoji2-views-helper-1.2.0\res
+com.v4android.usserapp-biometric-1.1.0-26 C:\Users\Mohammed Foysal\.gradle\caches\transforms-3\9eb507cdb4581ca63911ca7b41ec5502\transformed\biometric-1.1.0\res
+com.v4android.usserapp-jetified-emoji2-1.2.0-27 C:\Users\Mohammed Foysal\.gradle\caches\transforms-3\a0080b2376378fe66be9f910008485f3\transformed\jetified-emoji2-1.2.0\res
+com.v4android.usserapp-fragment-1.3.6-28 C:\Users\Mohammed Foysal\.gradle\caches\transforms-3\a1a8fdc16ff7bf0ecdb6f348973a5785\transformed\fragment-1.3.6\res
+com.v4android.usserapp-databinding-adapters-7.4.1-29 C:\Users\Mohammed Foysal\.gradle\caches\transforms-3\a4293f317f5e250e7a0980713575909a\transformed\databinding-adapters-7.4.1\res
+com.v4android.usserapp-jetified-circleimageview-3.1.0-30 C:\Users\Mohammed Foysal\.gradle\caches\transforms-3\ab35b4df737f79ae1f3499e5d596f63f\transformed\jetified-circleimageview-3.1.0\res
+com.v4android.usserapp-lifecycle-livedata-core-2.6.2-31 C:\Users\Mohammed Foysal\.gradle\caches\transforms-3\af4db284ba15960bcafc85c938886cb9\transformed\lifecycle-livedata-core-2.6.2\res
+com.v4android.usserapp-jetified-dexter-4.2.0-32 C:\Users\Mohammed Foysal\.gradle\caches\transforms-3\b0a6cae90f862e4deab0132dc6f7f6da\transformed\jetified-dexter-4.2.0\res
+com.v4android.usserapp-jetified-OneSignal-3.10.6-33 C:\Users\Mohammed Foysal\.gradle\caches\transforms-3\b451b9a0396f0028c3090fbd1e4eb41e\transformed\jetified-OneSignal-3.10.6\res
+com.v4android.usserapp-material-1.12.0-34 C:\Users\Mohammed Foysal\.gradle\caches\transforms-3\c79916b416abf5d6573d9caee62ad79e\transformed\material-1.12.0\res
+com.v4android.usserapp-jetified-roundedimageview-2.3.0-35 C:\Users\Mohammed Foysal\.gradle\caches\transforms-3\d2f4da9739b88a7697178de0726db252\transformed\jetified-roundedimageview-2.3.0\res
+com.v4android.usserapp-jetified-profileinstaller-1.3.0-36 C:\Users\Mohammed Foysal\.gradle\caches\transforms-3\d4f2d732c5c9e9b6b1536c176e29edf7\transformed\jetified-profileinstaller-1.3.0\res
+com.v4android.usserapp-lifecycle-viewmodel-2.6.2-37 C:\Users\Mohammed Foysal\.gradle\caches\transforms-3\d4f37338d35c0046291b20172608aad5\transformed\lifecycle-viewmodel-2.6.2\res
+com.v4android.usserapp-recyclerview-1.1.0-38 C:\Users\Mohammed Foysal\.gradle\caches\transforms-3\d583f4f8d721b9274282859faaa9a758\transformed\recyclerview-1.1.0\res
+com.v4android.usserapp-jetified-fab-1.6.4-39 C:\Users\Mohammed Foysal\.gradle\caches\transforms-3\d593f67cc2664ec2b21c6c47aabf9943\transformed\jetified-fab-1.6.4\res
+com.v4android.usserapp-media-1.0.0-40 C:\Users\Mohammed Foysal\.gradle\caches\transforms-3\d815ebb85304bda82b3cdf9c64b78899\transformed\media-1.0.0\res
+com.v4android.usserapp-jetified-startup-runtime-1.1.1-41 C:\Users\Mohammed Foysal\.gradle\caches\transforms-3\dff56e209311540c4063f2b56954ae90\transformed\jetified-startup-runtime-1.1.1\res
+com.v4android.usserapp-transition-1.5.0-42 C:\Users\Mohammed Foysal\.gradle\caches\transforms-3\e1bf213df93fa87545eb8597a5bda708\transformed\transition-1.5.0\res
+com.v4android.usserapp-jetified-lottie-5.2.0-43 C:\Users\Mohammed Foysal\.gradle\caches\transforms-3\e2b7f5a247c290605e4baa384f386511\transformed\jetified-lottie-5.2.0\res
+com.v4android.usserapp-coordinatorlayout-1.1.0-44 C:\Users\Mohammed Foysal\.gradle\caches\transforms-3\e43f8950f36ff726cb272ac84d6a9059\transformed\coordinatorlayout-1.1.0\res
+com.v4android.usserapp-swiperefreshlayout-1.1.0-45 C:\Users\Mohammed Foysal\.gradle\caches\transforms-3\ecce93299787f1e8bff73e0fc7b303bc\transformed\swiperefreshlayout-1.1.0\res
+com.v4android.usserapp-jetified-firebase-messaging-17.3.4-46 C:\Users\Mohammed Foysal\.gradle\caches\transforms-3\f095a16bd7787039a31323c48a6b87d4\transformed\jetified-firebase-messaging-17.3.4\res
+com.v4android.usserapp-jetified-Android-SpinKit-1.4.0-47 C:\Users\Mohammed Foysal\.gradle\caches\transforms-3\f2bb1225e2f4e52df6820cccfc0683a7\transformed\jetified-Android-SpinKit-1.4.0\res
+com.v4android.usserapp-pngs-48 G:\Download\Project Sabbir Vai\makeniqalv4-master\app\build\generated\res\pngs\debug
+com.v4android.usserapp-resValues-49 G:\Download\Project Sabbir Vai\makeniqalv4-master\app\build\generated\res\resValues\debug
+com.v4android.usserapp-rs-50 G:\Download\Project Sabbir Vai\makeniqalv4-master\app\build\generated\res\rs\debug
+com.v4android.usserapp-packageDebugResources-51 G:\Download\Project Sabbir Vai\makeniqalv4-master\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.v4android.usserapp-packageDebugResources-52 G:\Download\Project Sabbir Vai\makeniqalv4-master\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.v4android.usserapp-merged_res-53 G:\Download\Project Sabbir Vai\makeniqalv4-master\app\build\intermediates\merged_res\debug
+com.v4android.usserapp-debug-54 G:\Download\Project Sabbir Vai\makeniqalv4-master\app\src\debug\res
+com.v4android.usserapp-main-55 G:\Download\Project Sabbir Vai\makeniqalv4-master\app\src\main\res
